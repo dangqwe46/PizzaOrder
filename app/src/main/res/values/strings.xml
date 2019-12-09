@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+    <string name="food_image">Food Image</string>
+    <string name="rupee_symbol">" VNĐ"</string>
+    <string name="_0">0</string>
+    <string name="updating_menu">Cập nhật Menu</string>
+    <string name="loading">Loading...</string>
+    <string name="view_cart">Xem giỏ hàng</string>
+    <string name="sort_food">Sắp xếp</string>
+    <string name="sort_price">Giá từ thấp đến cao</string>
+    <string name="sort_rating">Sắp xếp theo đánh giá</string>
+    <string name="delivery_charges">Phí giao hàng</string>
+    <string name="discount">Giảm giá</string>
+    <string name="cart_total">Tổng cộng</string>
+    <string name="bill_details">Chi tiết hóa đơn</string>
+    <string name="coupon">Mã giảm giá</string>
+    <string name="your_cart">Giỏ hàng của bạn</string>
+</resources>
